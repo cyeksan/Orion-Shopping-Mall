@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Orion Shopping Mall</string>
+    <string name="button1">CLOTHING &amp; SHOES</string>
+    <string name="button2">FOOD &amp; BEVERAGE</string>
+    <string name="button3">ELECTRONICS</string>
+    <string name="button4">HEALTH &amp; COSMETICS</string>
+    <string name="button5">HOME &amp; DECORATION</string>
+    <string name="button6">ENTERTAINMENT</string>
+    <string name="button7">BOOKS</string>
+    <string name="button8">ACCESSORIZES</string>
+    <string name="address"><u>Alipaşa Nbhd, 59850 Çorlu/TURKEY</u></string>
+</resources>
